@@ -1,7 +1,20 @@
 /* applies to anything of class "example-class-selector" */
-.example-class-selector {
-	margin-top: 2em;
+.project {
+	margin-left: 20px;
+     
 }
+
+img. thumbnail {
+     width: 50px;
+     height: 100px;
+     border: 1px solid #434343;
+}
+
+p {
+     font-variant: small-caps;
+
+}
+
 
 /* applies to any <p> descendants of an element of class "example-class-selector" */
 .example-class-selector p {
